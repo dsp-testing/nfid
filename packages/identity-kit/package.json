@@ -20,7 +20,7 @@
     "@nfid/eslint-config": "*",
     "@nfid/typescript-config": "*",
     "@types/jest": "^29.5.10",
-    "babel-jest": "^29.7.0",
+    "babel-jest": "^30.5.2",
     "eslint-plugin-jest": "^27.6.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
